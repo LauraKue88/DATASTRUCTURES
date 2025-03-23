@@ -13,3 +13,11 @@ Example: Nested loops multiply complexities depending on the number of iteration
    
 (v). Recursive Calls Multiply - This is by analyzing recursive algorithms using recurrence relations. The recursion often leads to logarithmic or exponential complexity.
 Example: A binary search splits input in half each time that results in O(logn) complexity.
+
+Question 2
+(i) Memory Location - Arrays have a fixed memory allocation thus classified under static data structure whereas Linked lists allow room for memory expansion
+thus classified under dynamic data structures.
+(ii) Performance - Arrays in terms of access speed, fast access to elements by index is required directly O(1)  whereas linked list, sequential access
+is required O(n)
+(iii). Insertion and Deletion : In arrays, Insertions and deletions are infrequent and mostly at the end whereas Linked lists, Frequent insertions and 
+deletions are needed, especially at the beginning or middle.
