@@ -1,4 +1,4 @@
-Question 1:
+Q1.md:
 (i). Ignore Constants - This is because coefficients and lower end terms are irrelevant for large input sizes due to The growth rate of the function remains the same regardless of the coefficient.
  Examples are: O(2n)→O(n) and O(n+5)→O(n).
  
@@ -14,7 +14,7 @@ Example: Nested loops multiply complexities depending on the number of iteration
 (v). Recursive Calls Multiply - This is by analyzing recursive algorithms using recurrence relations. The recursion often leads to logarithmic or exponential complexity.
 Example: A binary search splits input in half each time that results in O(logn) complexity.
 
-Question 2
+Q2.md
 (i) Memory Location - Arrays have a fixed memory allocation thus classified under static data structure whereas Linked lists allow room for memory expansion
 thus classified under dynamic data structures.
 (ii) Performance - Arrays in terms of access speed, fast access to elements by index is required directly O(1)  whereas linked list, sequential access
